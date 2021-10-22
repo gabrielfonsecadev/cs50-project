@@ -11,7 +11,7 @@ int main (void)//main é a função principal do código
 	}
 }
 
-const char meow (void)//"const char" é utilizado para mais de caractere, é a versão prolongada do char, como o "long int"
+const char meow (void)//"const char" é utilizado para mais de uma caractere, é a versão prolongada do char, como o "long int"
 
 {
 	printf ("meow\n");
