@@ -11,11 +11,11 @@ float main ()
 
 	soma = x + y;
 	subtracao = x - y;
-    multi = x * y;
-    div = x / y;
+	multi = x * y;
+	div = x / y;
 
 	printf ("A soma e: %.2f\n", soma);
 	printf( "A subtracao e: %.2f\n", subtracao);
-    printf( "A multiplicacao e: %.2f\n", multi);
-    printf( "A divisao e: %.2f\n", div);
+	printf( "A multiplicacao e: %.2f\n", multi);
+	printf( "A divisao e: %.2f\n", div);
 }
